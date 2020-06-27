@@ -1,0 +1,19 @@
+
+.result{
+    width: 15%;
+    color: black !important;
+}
+.clear {
+    width: 192px;
+    margin-top: 10px;
+    color: grey;
+    padding-bottom: 5px;
+}
+.btn {
+   background-color: #dfe5eb;
+   width: 45px;
+}
+.halfbtn {
+    background-color: grey;
+    width: 7.4%;
+}
